@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @djohnmaliwat
 - 👀 I’m interested in data analytics, programming, and self development. I'm also into video games, lifestyle and graphic design.
 - 🌱 I’m currently learning R Programming, SQL, Excel, Tableau and Power BI.
-- 📫 How to reach me in linkedin. (https://www.linkedin.com/in/djohnmaliwat/)
+- 📫 How to reach me in 
+-   linkedin - https://www.linkedin.com/in/djohnmaliwat/
+-   gmail - djohnmaliwatbusacc@gmail.com
